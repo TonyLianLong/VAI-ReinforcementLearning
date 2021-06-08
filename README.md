@@ -127,7 +127,7 @@ done
 This file supports PAD too.
 
 ## FAQ
-[FAQ](FAQ.md)
+See [FAQ](FAQ.md). Please read the FAQ if you encounter any problems. We also offer some tips, since it can be very difficult to debug.
 
 ## Citation
 ```

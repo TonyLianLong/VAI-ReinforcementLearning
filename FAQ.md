@@ -1,3 +1,4 @@
+## FAQ
 ### I got a mujoco error (e.g. C error/python error in installation or running), what should I do?
 Since mujoco requires C part (and rendering), such error may occur if your system misses packages. Please double check your packages and contact mujoco for help. 
 
