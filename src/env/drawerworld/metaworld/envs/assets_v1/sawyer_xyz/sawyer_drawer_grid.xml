@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco>
+    <asset>
+      <material name="light_wood_v3" texture="grid" texrepeat="1 1" texuniform="true" />
+    </asset>
+    <include file="sawyer_drawer_base.xml"></include>
+</mujoco>

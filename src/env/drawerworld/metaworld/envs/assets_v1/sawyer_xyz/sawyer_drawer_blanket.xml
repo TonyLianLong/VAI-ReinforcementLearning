@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco>
+    <asset>
+      <texture name="lightwood_2d" file="../textures/blanket.png" type="2d"/>
+      <material name="light_wood_v3" texture="lightwood_2d" texrepeat="1 1" texuniform="true" />
+    </asset>
+    <include file="sawyer_drawer_base.xml"></include>
+</mujoco>

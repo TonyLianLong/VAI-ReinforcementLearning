@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco>
+    <asset>
+      <texture name="no_texture" type="2d" builtin="checker" rgb1=".0 .0 .0" rgb2=".0 .0 .0" width="300" height="300" mark="edge" markrgb=".0 .0 .0"/>
+      <material name="light_wood_v3" texture="no_texture" texrepeat="1 1" texuniform="true" />
+    </asset>
+    <include file="sawyer_drawer_base.xml"></include>
+</mujoco>
