@@ -2,7 +2,7 @@
 Since mujoco requires C part (and rendering), such error may occur if your system misses packages. Please double check your packages and contact mujoco for help. 
 
 ### I see multiple options in gym to render. What should I use to render?
-As long as it comes with GPU acceleration, it should be fast. I use EGL since I'm running on a server without screen and you need to make sure EGL is supported if you use EGL. This depends on your NVIDIA driver and can be hard to debug.
+As long as it comes with GPU acceleration, it should be fast. EGL is used in the benchmarks and is recommended.
 
 ### What are the `--update_rewards` and `--use_inv` in the example command?
 These are legacy for compatability purpose. This codebase supports predicting the rewards and inverse dynamics as well as rotation as a side training task. These are useful for running policy adaptation during deployment (PAD experiments). This is enabled in training for compatability in loading our previously-trained checkpoints. This is not enabled in inference since it adds to latency and we don't need adaptation in the current setting. We experimented and we discovered no significant change when removing the flag of reward prediction.
