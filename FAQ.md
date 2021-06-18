@@ -20,5 +20,5 @@ For hyperparam tuning, we have given a set of hyperparams that perform well enou
 
 For DeepMind Control, although Places dataset is not required to get improvements on the color hard environment, Places dataset is recommended for the video environment since it involves complicated textures which make the adapter hard to distinguish. For DrawerWorld, since the texture is repeating (relatively uniform), the adapter works even without Places dataset. If you decide to use Places augmentation, you need to control the strength of it to avoid mis-classify patches. In addition, in the experience of training adapter, the DrawerWorld benchmark is not difficult in training environment and the training environment has simple foreground and background, so hyperparam "k" in Stage 1 does not matter much for DrawerWorld and algorithm can select foreground efficiently even if you over-specify "k". The benchmark is designed to be difficult in the test environment and they are very challenging in terms of foreground and background separation because the texture has never appeared to the model in training time, so Stage 2 needs a lot of attention.
 
-### Are you going to release Pretrained Models?
-We are still sorting out the models, given that each model is hard to manage as it has multiple files. We plan to release pretrained models after it so that you could have a try of our models on different (possibly even harder) tasks.
+### Are Pretrained Models Available?
+Yes, and please see the [README](README.md).

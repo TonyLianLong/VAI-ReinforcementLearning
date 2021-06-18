@@ -18,6 +18,7 @@ This repo has the official PyTorch VAI implementation.
 - [VAI: Unsupervised Visual Attention and Invariance for Reinforcement Learning.](#vai-unsupervised-visual-attention-and-invariance-for-reinforcement-learning)
   - [How to run the code?](#how-to-run-the-code)
   - [FAQ](#faq)
+  - [Pretrained Models](#pretrained-models)
   - [Citation](#citation)
   - [Credits](#credits)
 
@@ -128,6 +129,9 @@ This file supports PAD too.
 
 ## FAQ
 See [FAQ](FAQ.md). Please read the FAQ if you encounter any problems. We also offer some tips, since it can be very difficult to debug.
+
+## Pretrained Models
+[Download](https://drive.google.com/drive/folders/1RF1NTcG7caKiy3-VPVWLMIjoP2MdkGvn?usp=sharing)
 
 ## Citation
 ```
