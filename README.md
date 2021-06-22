@@ -1,6 +1,6 @@
 # VAI: Unsupervised Visual Attention and Invariance for Reinforcement Learning.
 
-by Xudong Wang*, Long Lian* and Stella X. Yu at UC Berkeley / ICSI. (*: equal contribution)
+by [Xudong Wang](http://people.eecs.berkeley.edu/~xdwang/)*, [Long Lian](https://github.com/TonyLianLong/)* and [Stella X. Yu](http://www1.icsi.berkeley.edu/~stellayu/) at UC Berkeley / ICSI. (*: equal contribution)
 
 <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.</em>
 
