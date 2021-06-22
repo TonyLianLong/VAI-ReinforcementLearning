@@ -8,8 +8,7 @@ by Xudong Wang*, Long Lian* and Stella X. Yu at UC Berkeley / ICSI. (*: equal co
   <img src="https://raw.githubusercontent.com/TonyLianLong/VAI-ReinforcementLearning/main/introduction.png"  width="100%" >
 </p>
 
-For more information, please check: [PDF](https://people.eecs.berkeley.edu/~xdwang/papers/CVPR2021VAI.pdf) | 
-[Preprint](https://arxiv.org/abs/2104.02921) | [BibTex](https://people.eecs.berkeley.edu/~xdwang/papers/VAI.txt)
+For more information, please check: [Project Page](http://people.eecs.berkeley.edu/~xdwang/projects/VAI/) | [PDF](http://people.eecs.berkeley.edu/~xdwang/papers/CVPR2021_VAI.pdf) | [Preprint](https://arxiv.org/abs/2104.02921) | [BibTex](http://people.eecs.berkeley.edu/~xdwang/papers/VAI.txt)
 
 The key message of this paper: Adapt not RL, but the vision!
 
