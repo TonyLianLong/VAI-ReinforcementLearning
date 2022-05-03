@@ -134,13 +134,12 @@ See [FAQ](FAQ.md). Please read the FAQ if you encounter any problems. We also of
 
 ## Citation
 ```
-@InProceedings{Wang_2021_CVPR,
-    author    = {Wang, Xudong and Lian, Long and Yu, Stella X.},
-    title     = {Unsupervised Visual Attention and Invariance for Reinforcement Learning},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2021},
-    pages     = {6677-6687}
+@inproceedings{wang2021unsupervised,
+  title={Unsupervised visual attention and invariance for reinforcement learning},
+  author={Wang, Xudong and Lian, Long and Yu, Stella X},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6677--6687},
+  year={2021}
 }
 ```
 
